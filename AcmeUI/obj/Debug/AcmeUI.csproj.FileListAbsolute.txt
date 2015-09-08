@@ -1,0 +1,13 @@
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\bin\Debug\AcmeUI.exe.config
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\bin\Debug\AcmeUI.exe
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\bin\Debug\AcmeUI.pdb
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI.csprojResolveAssemblyReference.cache
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\MainWindow.baml
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\MainWindow.g.cs
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\App.g.cs
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI_MarkupCompile.cache
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI.g.resources
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI.Properties.Resources.resources
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI.csproj.GenerateResource.Cache
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI.exe
+c:\users\itl\documents\visual studio 2013\Projects\AcmeTrain\AcmeUI\obj\Debug\AcmeUI.pdb
